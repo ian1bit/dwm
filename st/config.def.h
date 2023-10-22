@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "monospace:pixelsize=16:antialias=true:autohint=true";
+static char *font = "JetBrains Mono:pixelsize=16:antialias=true:autohint=true";
 static char *font2[] = { "Symbola:pixelsize=12:antialias=true:autohint=true" };
 static int borderpx = 40;
 static char *openurlcmd[] = {
